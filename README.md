@@ -12,7 +12,7 @@ To install it simply do following from your terminal:
 
 ```bash
 git clone --depth=1 https://github.com/hzh-cocong/iTerm2-Workspace.git ~/.iTerm2-Workspace
-sh ~/.iterm2_workspace/install.sh
+sh ~/.iTerm2-Workspace/install.sh
 ```
 
 
