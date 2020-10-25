@@ -1,0 +1,10 @@
+{
+    "Profiles": [
+        {
+            "Name": "SaveTabs",
+            "Guid": "SaveTabs",
+            "Custom Command" : "Yes",
+            "Command" : "osascript ~/.iTerm2-Workspace/SaveTabs.applescript"
+        }
+    ]
+}
