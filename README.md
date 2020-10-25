@@ -19,4 +19,5 @@ sh ~/.iterm2_workspace/install.sh
 
 ## Other Tool
 
-You can search the file by Alfred Workflow *http://www.packal.org/workflow/iterm2-workspace*，download from [here](https://github.com/hzh-cocong/iTerm2-Workspace/releases/download/v1.0.0/iTerm2.Workspace.alfredworkflow).
+You can search the file by Alfred Workflow *[http://www.packal.org/workflow/iterm2-workspace](http://www.packal.org/workflow/iterm2-workspace)*，download from [here](https://github.com/hzh-cocong/iTerm2-Workspace/releases/download/v1.0.0/iTerm2.Workspace.alfredworkflow).
+
